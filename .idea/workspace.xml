@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a39051f2-6146-4b5d-a1ad-5dbe970e21db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/School 21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/School 21.iml" afterDir="false" />
+    <list default="true" id="a39051f2-6146-4b5d-a1ad-5dbe970e21db" name="Changes" comment="Project 3 archived">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project01_task01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project01_task02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project01_task03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project02_task01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project02_task02.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -59,7 +59,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/iseda/PycharmProjects/School 21/Project 2"
+    "last_opened_file_path": "C:/Users/iseda/PycharmProjects/School 21/Project 2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,7 +89,54 @@
       <option name="presentableId" value="Default" />
       <updated>1761838801509</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project 2">
+      <option name="closed" value="true" />
+      <created>1761845610717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845610718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project 2">
+      <option name="closed" value="true" />
+      <created>1761845678685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845678685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project 3">
+      <option name="closed" value="true" />
+      <created>1761845731991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845731991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Project 3 archived">
+      <option name="closed" value="true" />
+      <created>1761845788072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845788072</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Project 3 archived">
+      <option name="closed" value="true" />
+      <created>1761845811955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845811955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project 2" />
+    <MESSAGE value="Project 3" />
+    <MESSAGE value="Project 3 archived" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project 3 archived" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
