@@ -1,0 +1,30 @@
+# Project1 - Классификация учебных материалов
+# Основные зависимости для работы с GigaChat API и LangChain
+
+# LangChain и GigaChat
+langchain-gigachat>=0.3.12
+langchain-core>=0.3.79
+
+# Валидация данных
+pydantic>=2.12.3
+
+# Дополнительные зависимости LangChain
+typing-extensions>=4.15.0
+
+# Для работы с JSON (встроено в Python)
+# json - встроенный модуль
+
+# Для работы с датами (встроено в Python)  
+# datetime - встроенный модуль
+
+# Для работы с системными сообщениями
+# SystemMessage, HumanMessage - из langchain_core
+
+# Для структурированного вывода
+# BaseModel, Field - из pydantic
+
+# Для инструментов LangChain
+# tool - из langchain_core.tools
+
+# Минимальная версия Python
+# Python>=3.13

@@ -1,0 +1,47 @@
+# Project2 - Telegram бот для классификации учебных материалов
+# Зависимости для Telegram бота с LangGraph и GigaChat
+
+# LangChain и GigaChat
+langchain-gigachat>=0.3.12
+langchain-core>=0.3.79
+
+# LangGraph для управления состоянием агента
+langgraph>=0.2.0
+
+# Telegram Bot API
+python-telegram-bot>=21.0
+
+# Валидация данных
+pydantic>=2.12.3
+
+# Типизация
+typing-extensions>=4.15.0
+
+# Логирование (встроено в Python)
+# logging - встроенный модуль
+
+# Работа с датами (встроено в Python)
+# datetime - встроенный модуль
+
+# Работа с JSON (встроено в Python)
+# json - встроенный модуль
+
+# Работа с регулярными выражениями (встроено в Python)
+# re - встроенный модуль
+
+# Системные сообщения LangChain
+# SystemMessage, HumanMessage - из langchain_core.messages
+
+# Инструменты LangChain
+# tool - из langchain_core.tools
+
+# LangGraph компоненты
+# StateGraph, END - из langgraph.graph
+# add_messages - из langgraph.graph.message
+
+# Telegram компоненты
+# Update - из telegram
+# Application, CommandHandler, MessageHandler, filters, ContextTypes - из telegram.ext
+
+# Минимальная версия Python
+# Python>=3.13
