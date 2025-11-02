@@ -64,7 +64,7 @@ https://nonfiction.ru/stream/kvantovaya-fizika-za-5-minut-glavnyie-voprosyi-i-id
     subject: str = Field(description="Предмет")
     link: str = Field(description ="Оригинальная ссылка")
 
-API_KEY = "MDE5YTAyNDAtZGNlYi03MDQyLTkzOTItNmY0NGUwZTQ3ZjkyOjdiOWU2MGY3LWZlYjgtNGMxZi1hZDVkLTI4MmUzODQzODYzNQ=="
+API_KEY = "YOUR API KEY"
 
 llm = GigaChat(credentials=API_KEY, verify_ssl_certs=False).with_structured_output(Response)
 
