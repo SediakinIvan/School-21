@@ -20,8 +20,8 @@ logging.basicConfig(
 )
 
 # Конфигурация
-API_KEY = "MDE5YTAyNDAtZGNlYi03MDQyLTkzOTItNmY0NGUwZTQ3ZjkyOjdiOWU2MGY3LWZlYjgtNGMxZi1hZDVkLTI4MmUzODQzODYzNQ=="
-TELEGRAM_TOKEN = "8209589649:AAFTw9epAKx3eBzQzgR7L8xco-cE2rSjyGw"
+API_KEY = "YOUR API KEY"
+TELEGRAM_TOKEN = "YOUR TG TOKEN"
 
 # === Инициализация LLM ===
 try:
