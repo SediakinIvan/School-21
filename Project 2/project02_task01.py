@@ -8,7 +8,7 @@ from langgraph.graph.message import add_messages
 import json
 from datetime import datetime, timedelta
 
-API_KEY = "MDE5YTAyMjQtMmNkZC03NjI2LWFkMTQtMzEzNmZiYTRkZTQ2OmQ1ODUyOGQ0LTFhYjEtNDFkOC05MWI1LTY3YmNlNGU5ZmE0MQ=="
+API_KEY = "YOUR API KEY"
 
 
 # Определяем состояние агента
