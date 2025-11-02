@@ -81,7 +81,7 @@ def write_to_file(date: str, subject: str, link: str):
     return("Данные записаны")
 
 # Твой ключ API GigaChat https://developers.sber.ru/docs/ru/gigachat/quickstart/ind-using-api
-API_KEY = "MDE5YTAyNDAtZGNlYi03MDQyLTkzOTItNmY0NGUwZTQ3ZjkyOjdiOWU2MGY3LWZlYjgtNGMxZi1hZDVkLTI4MmUzODQzODYzNQ=="
+API_KEY = "YOUR API KEY"
 
 tools = [write_to_file]
 
