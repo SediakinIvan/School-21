@@ -17,8 +17,8 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-API_KEY = "MDE5YTAyMjQtMmNkZC03NjI2LWFkMTQtMzEzNmZiYTRkZTQ2OmQ1ODUyOGQ0LTFhYjEtNDFkOC05MWI1LTY3YmNlNGU5ZmE0MQ=="
-TELEGRAM_TOKEN = "7542553407:AAEUv-W1RT0by8UApGGDDfe9bwNNHG-c5MU"  # Замените на ваш токен
+API_KEY = "YOUR API KEY"
+TELEGRAM_TOKEN = "YOUR TG TOKEN"  # Замените на ваш токен
 
 
 # Определяем состояние агента
