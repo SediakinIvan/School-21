@@ -1,7 +1,7 @@
 from langchain_gigachat import GigaChat
 from langchain_core.messages import SystemMessage, HumanMessage
 
-API_KEY = "MDE5YTAyNDAtZGNlYi03MDQyLTkzOTItNmY0NGUwZTQ3ZjkyOjdiOWU2MGY3LWZlYjgtNGMxZi1hZDVkLTI4MmUzODQzODYzNQ=="
+API_KEY = "YOUR API KEY"
 
 llm = GigaChat(credentials=API_KEY, verify_ssl_certs=False)
 
